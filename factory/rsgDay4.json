@@ -1,0 +1,9 @@
+{
+	"name": "rsgDay4",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c257430f-0cea-4760-bb01-d2e0f6636486",
+		"tenantId": "f71e6fe7-e292-4d22-8e86-e2ff219e2c3b"
+	}
+}
